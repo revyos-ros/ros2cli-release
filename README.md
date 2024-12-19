@@ -1,3 +1,41 @@
+## ros2cli (jazzy) - 0.32.2-1
+
+The packages in the `ros2cli` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy ros2cli --override-release-repository-push-url git@github.com:revyos-ros/ros2cli-release.git` on `Thu, 19 Dec 2024 06:14:09 -0000`
+
+These packages were released:
+- `ros2action`
+- `ros2cli`
+- `ros2cli_test_interfaces`
+- `ros2component`
+- `ros2doctor`
+- `ros2interface`
+- `ros2lifecycle`
+- `ros2lifecycle_test_fixtures`
+- `ros2multicast`
+- `ros2node`
+- `ros2param`
+- `ros2pkg`
+- `ros2run`
+- `ros2service`
+- `ros2topic`
+
+Version of package(s) in repository `ros2cli`:
+
+- upstream repository: https://github.com/ros2/ros2cli
+- release repository: https://github.com/revyos-ros/ros2cli-release.git
+- rosdistro version: `0.32.2-1`
+- old version: `0.32.1-2`
+- new version: `0.32.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ros2cli (humble) - 0.18.11-1
 
 The packages in the `ros2cli` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble ros2cli --override-release-repository-push-url git@github.com:revyos-ros/ros2cli-release.git` on `Mon, 23 Sep 2024 04:55:40 -0000`
